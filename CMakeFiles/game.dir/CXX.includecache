@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codio/workspace/TextAdventureEscapeGame/game.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+memory
+-
+iterator
+-
+cmath
+-
+game.h
+/home/codio/workspace/TextAdventureEscapeGame/game.h
+
+/home/codio/workspace/TextAdventureEscapeGame/game.h
+string
+-
+cmath
+-
+vector
+-
+map
+-
+

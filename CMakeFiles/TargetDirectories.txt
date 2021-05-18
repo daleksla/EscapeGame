@@ -1,0 +1,2 @@
+/home/codio/workspace/TextAdventureEscapeGame/CMakeFiles/game.dir
+/home/codio/workspace/TextAdventureEscapeGame/CMakeFiles/source.dir
